@@ -25,7 +25,7 @@ SECRET_KEY = 'kfg=lz&&u5-+4d!a7$vhk6ci-t#oxdgn_9ikynpocqki%bmi3_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.105', 'nguyenhuutung.ddns.net']
+ALLOWED_HOSTS = ['nguyenhuutung.ddns.net', '127.0.0.1']
 
 
 # Application definition
